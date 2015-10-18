@@ -1,0 +1,4 @@
+group 'com.shitpimps.hexagonalblog'
+version '1.0-SNAPSHOT'
+
+defaultTasks 'clean', 'test'
